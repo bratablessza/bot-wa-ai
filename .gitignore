@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Local config
+.env
+*.env.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Mac/Windows files
+.DS_Store
+Thumbs.db
+
+# Ollama (if you store model configs locally)
+ollama.db
+ollama_models/
+
+# Auth session for whatsapp-web.js
+.session/
+.session-* 
+.wwebjs_auth/
+.wwebjs_cache/
+# VS Code folder
+.vscode/
