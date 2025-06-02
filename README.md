@@ -14,7 +14,7 @@ Ini adalah bot WhatsApp yang menggunakan [`whatsapp-web.js`](https://github.com/
 
 1. Clone repo ini:
    ```bash
-   git clone https://github.com/kamu/wabot.git
+   git clone https://github.com/bratablessza/bot-wa-ai
    cd wabot
    ```
 
@@ -63,4 +63,4 @@ MIT – bebas pakai asal jangan disalahgunakan 🚫
 
 ---
 
-> Dibuat dengan 💥 oleh Bambang & AI-nya.
+> Dibuat dengan 💥 oleh Taktak & AI-nya.
